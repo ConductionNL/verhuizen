@@ -49,4 +49,3 @@ dependsOn:
     - name: contact-catalogus/contactcatalogus
     - name: user-component/user-component
     - name: berichtservice/berichtservice
-    - name: adresservice/adresservice
